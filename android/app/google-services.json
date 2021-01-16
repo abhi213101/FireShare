@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "8352594890",
+    "project_id": "sharechat-795a5",
+    "storage_bucket": "sharechat-795a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8352594890:android:99d541a0cedd10f9872d33",
+        "android_client_info": {
+          "package_name": "com.first.share_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8352594890-fd40r007dl1jojrjnjupr31l77uvj0h2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.first.share_chat",
+            "certificate_hash": "6d0704b82cf2cc87dd5e397f8dc7ecde6c74c131"
+          }
+        },
+        {
+          "client_id": "8352594890-re65copn2pd476rqlagc7sk5gvlkg637.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy7-AfNVtWu8kphK_6AKp9LNcerotj-M0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8352594890-re65copn2pd476rqlagc7sk5gvlkg637.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "8352594890-qjaa18f261nncgsgs69coqc3ucdagos9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.first.shareChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
