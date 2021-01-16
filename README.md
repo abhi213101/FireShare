@@ -1,6 +1,7 @@
-# share_chat
+# FireShare
 
-A new Flutter application.
+A social media application to share photos in a blink. Built using flutter and firebase.
+
 
 ## Getting Started
 
